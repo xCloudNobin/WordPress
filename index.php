@@ -1,3 +1,4 @@
+<?php this is a deliberate syntax error for a failing deploy;
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
